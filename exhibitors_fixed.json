@@ -1,0 +1,8865 @@
+[
+ {
+  "booth": "N8030",
+  "company": "爱民药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q10",
+  "company": "爱嗣健康医疗管理有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7133",
+  "company": "爱威康集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M28",
+  "company": "安徽安科生物工程股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3J05",
+  "company": "安徽贝克联合制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C23,25",
+  "company": "安徽慈仁堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P32",
+  "company": "安徽国创药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3509",
+  "company": "安徽国正药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD02",
+  "company": "安徽恒景堂医药企业管理有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3R06",
+  "company": "安徽宏业药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR25",
+  "company": "安徽华康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8F31",
+  "company": "安徽华善堂中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3A03",
+  "company": "安徽华源药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B27",
+  "company": "安徽黄山云乐灵芝有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N11",
+  "company": "安徽惠泽国医堂中医康复有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA18,20",
+  "company": "安徽金马药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8130",
+  "company": "安徽金牛药械股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z135",
+  "company": "安徽金阳生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P05",
+  "company": "安徽联谊药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P05",
+  "company": "安徽美欣制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3102",
+  "company": "安徽苗德药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8026",
+  "company": "安徽仁和药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3P03",
+  "company": "安徽省安康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D31",
+  "company": "安徽省华鼎生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SA13",
+  "company": "安徽省如是心贸易有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N09",
+  "company": "安徽省谓博药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S17",
+  "company": "安徽省先锋制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E03",
+  "company": "安徽世茂中药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SB12",
+  "company": "安徽皖垦茶业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D23,25",
+  "company": "安徽新兴中药材饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ06",
+  "company": "安徽鑫露达医疗用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA46",
+  "company": "安丘市鲁安药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF07",
+  "company": "澳安得(HK)药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3Q03",
+  "company": "澳美制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB07",
+  "company": "白城市亿正药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D13",
+  "company": "白山市三宝堂生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3M05",
+  "company": "百洋医药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q11",
+  "company": "宝利化制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C07",
+  "company": "保定九天医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C07",
+  "company": "保定九天医药有限公司满城分公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M24,26",
+  "company": "保定康平医药销售有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M24,26",
+  "company": "保定市绿谷医疗器械制造有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P27,29",
+  "company": "保定中药制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1A03",
+  "company": "北京百美特生物制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP12",
+  "company": "北京宝恩科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E27",
+  "company": "北京葆年堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京北陆药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京勃然制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC07",
+  "company": "北京博力康医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京诚济制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R13",
+  "company": "北京大华医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B09",
+  "company": "北京达而昌生物技术开发有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M09,11",
+  "company": "北京东升制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京东兴堂健康科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K28",
+  "company": "北京阜康仁生物制药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S123",
+  "company": "北京鑫堂中医诊所有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1A01",
+  "company": "北京海德润医药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P07",
+  "company": "北京翰林苑世纪广告有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG09",
+  "company": "北京合易投资管理有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M08,10",
+  "company": "北京和心诺泰医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C31",
+  "company": "北京宏济药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M01",
+  "company": "北京洪天力药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京佳诚生物医药科技开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP29",
+  "company": "北京佳杰宜坤医药科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ01",
+  "company": "北京嘉迪医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京嘉林药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8H20",
+  "company": "北京捷斯林爱康医疗设备有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J28",
+  "company": "北京京儿医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M05",
+  "company": "北京九发药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S11",
+  "company": "北京科信必成医药科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R04",
+  "company": "北京科园信海医药经营有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F32",
+  "company": "北京莱瑞森医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5G15",
+  "company": "北京联馨药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q31",
+  "company": "北京凌锋时代文化发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N25",
+  "company": "北京麦迪海药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S15",
+  "company": "北京麦康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K04",
+  "company": "北京美福润医药科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S01,02",
+  "company": "北京名越辛辰广告有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M29,31",
+  "company": "北京欧诺尔科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ06",
+  "company": "北京七维健康科技股份公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP10",
+  "company": "北京乳凝创新生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京赛升药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J32",
+  "company": "北京三元基因药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "北京商帅商学院",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S121",
+  "company": "北京神州汉方医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京圣永制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京市燕京药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "F110",
+  "company": "北京市永康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S01",
+  "company": "北京市远东医药发展公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京曜光药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R06,07",
+  "company": "北京四环科宝制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京同仁堂股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京同仁堂股份有限公司营销分公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京同仁堂科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP04",
+  "company": "北京伟器天成医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3P05",
+  "company": "北京五和博澳药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京星吴医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京亚东生物制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N27,29",
+  "company": "北京阳光诺和药物研究有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京医药行业协会",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG02",
+  "company": "北京亿康先达生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1I32",
+  "company": "北京皿序医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1128",
+  "company": "北京盈科瑞创新药物研究有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG01,03",
+  "company": "北京佑三药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P14,16",
+  "company": "北京宇卫科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G20",
+  "company": "北京圆心科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P09,11",
+  "company": "北京正博万方科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M23,25",
+  "company": "北京志诚康桥传媒广告有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "北京卫安通健康科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "北京中新药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q06",
+  "company": "北京中研万通科技有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD41,43",
+  "company": "北京珠峰百朗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ31",
+  "company": "北京紫藤康桥科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K29,31",
+  "company": "鼻精灵重庆医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B03",
+  "company": "弼诺科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C24,26",
+  "company": "碧源优健生物科技邯郸有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C32",
+  "company": "亳州普润药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C32",
+  "company": "亳州市华鑫中药饮片科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "KK38",
+  "company": "博邦芳舟医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P12",
+  "company": "渤海人寿保险股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG34",
+  "company": "沧州得能制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B01",
+  "company": "沧州临港经济技术开发区生物医药产业园",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN44",
+  "company": "沧州瑞洁日用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S131",
+  "company": "沧州市新华区泉家康木器厂",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J07",
+  "company": "长春大政药业科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P07,09",
+  "company": "长春迪瑞制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF14",
+  "company": "长春海外制药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1C02",
+  "company": "长春海悦药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC41,43",
+  "company": "长春市奥朗特生化药械研究所",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ14,16",
+  "company": "长春市科新生化药械研究所",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P02,04",
+  "company": "长春市欧乐医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR01",
+  "company": "长春市天集医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "KK20",
+  "company": "长春市新环医疗设备总厂",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P31",
+  "company": "长春市郁鑫医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S03,04",
+  "company": "长春银诺克药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N32",
+  "company": "长春银诺克医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P28,30",
+  "company": "长春英平药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q32",
+  "company": "长春长红制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8116,14",
+  "company": "长治市中药材行业协会",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7F31",
+  "company": "重庆明波医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7F26",
+  "company": "重庆陪都药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "QD24",
+  "company": "重庆赛力君安医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SJ24",
+  "company": "重庆森佩美生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E283",
+  "company": "重庆上药慧远药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7E27",
+  "company": "重庆神奇康正控销第二事业部",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7E20",
+  "company": "重庆圣华曦药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B30",
+  "company": "重庆神奇药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7E29",
+  "company": "重庆喜旋生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ST04",
+  "company": "重庆康乐制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q08",
+  "company": "重庆新三禾网络科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C29",
+  "company": "重庆瑶瑞堂农业开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7I16",
+  "company": "重庆渝进药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7F28",
+  "company": "重庆芸峰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E10,12",
+  "company": "重庆泽昊医药(集团)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E10,12",
+  "company": "重庆泽昊医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7E28",
+  "company": "重庆植恩药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7F23",
+  "company": "重庆中创科药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA02",
+  "company": "创邦医疗健康科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "大方县九龙天麻开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB22",
+  "company": "大理白族自治州中药制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C02",
+  "company": "大连美创药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C02",
+  "company": "大连盛泓药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC18",
+  "company": "大连天山药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1028",
+  "company": "大连中信药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH05,07",
+  "company": "大同市利群药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "EA05",
+  "company": "大同市卫华药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q07",
+  "company": "丹东宏业制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA38",
+  "company": "丹东康齿灵牙膏有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ10",
+  "company": "丹东欣时代生物医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q10,12",
+  "company": "丹东药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7I02,04",
+  "company": "丹东医创药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z142",
+  "company": "德州欣瑞达消毒制品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TN04",
+  "company": "东莞市鸿元医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S17",
+  "company": "东莞市金美药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN09",
+  "company": "东莞市中加消毒科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z107",
+  "company": "东阳智库创想生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1126",
+  "company": "多多药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M29",
+  "company": "法罗适医疗技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK46,48",
+  "company": "方林健股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z108",
+  "company": "佛山市禅城区金葫芦棉签厂",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP11",
+  "company": "佛山市福斯曼医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z016",
+  "company": "佛山市凌远医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK06,08",
+  "company": "佛山市雅佛医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7F30",
+  "company": "福安药业(集团)股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7F30",
+  "company": "福安药业集团庆余堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建承创堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM12",
+  "company": "福建福布斯医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建金山生物制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N11G12",
+  "company": "福建美菰林生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建明龙制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建南少林药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S127",
+  "company": "福建三和济医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建省福抗药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建省闽东力捷迅药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建省泉州罗裳山制药厂",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建省泉州制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建省神蜂科技开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建省医药行业协会",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建太平洋制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建天泉药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建仙芝楼生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建延年药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福建颐真生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福州辰星药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福州海王福药制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福州海王金象中药制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "福州屏山制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3B05",
+  "company": "辅仁药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3B05",
+  "company": "河南辅仁怀庆堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q05",
+  "company": "抚顺青松药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH33",
+  "company": "甘肃成纪生物药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C07",
+  "company": "甘肃佛仁制药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7K27,29",
+  "company": "甘肃河西制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5A13",
+  "company": "甘肃康王药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C11",
+  "company": "甘肃陇神戎发药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N28,30",
+  "company": "甘肃岷海制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C11",
+  "company": "甘肃普安制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C11",
+  "company": "甘肃润枫源农牧生态科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C15",
+  "company": "甘肃泰康制药有有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K02",
+  "company": "甘肃惟精堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R06",
+  "company": "甘肃中天金丹药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM14",
+  "company": "高碑店市普瑞赛斯生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8H28,30",
+  "company": "冠邦国际有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T15",
+  "company": "广东百澳药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3N08",
+  "company": "广东邦民制药厂有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B01",
+  "company": "广东宝康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P17,15",
+  "company": "广东逢春制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C13",
+  "company": "广东广发制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C13",
+  "company": "辽宁仙草堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I21",
+  "company": "广东广府堂健康管理发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7K10,12",
+  "company": "广东和辉药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF26",
+  "company": "广东恒健制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N26",
+  "company": "广东华茂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N26",
+  "company": "广东华润顺峰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7116",
+  "company": "广东汇通乳胶制品集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N32",
+  "company": "广东嘉博制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S10",
+  "company": "广东嘉应制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM42",
+  "company": "广东健沣生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S05",
+  "company": "广东健信制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P13,15",
+  "company": "广东金砖天网信息科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3R05",
+  "company": "广东九明制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3R05",
+  "company": "广东康奇力药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1002",
+  "company": "广东奇方药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "H001",
+  "company": "广东青云山药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C01,03",
+  "company": "广东人人康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J01,03",
+  "company": "广东瑞兴医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1108,10",
+  "company": "广东三蓝药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P18,16",
+  "company": "广东省惠州市中药厂有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5109",
+  "company": "广东泰恩康药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF04",
+  "company": "广东万方制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1127,29",
+  "company": "广东卫伦生物制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5002",
+  "company": "广东五虎山药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S08",
+  "company": "广东先强药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1A31",
+  "company": "广东香山堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5F15",
+  "company": "广东一力集团制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5F15",
+  "company": "广东一力集团制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5111",
+  "company": "广东一片天医药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5111",
+  "company": "广东一片天医药集团制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B02",
+  "company": "广东医保药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S11",
+  "company": "广东易健源医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R08",
+  "company": "广东粤威制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE06",
+  "company": "广东在田药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B05",
+  "company": "广东湛江吉民药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P02",
+  "company": "广西禅方药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7K28,30",
+  "company": "广西昌弘制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C05",
+  "company": "广西纯正堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE30",
+  "company": "广西大海阳光药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P32",
+  "company": "广西大力神制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB13",
+  "company": "广西古方药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J31",
+  "company": "广西桂宝堂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7105,07",
+  "company": "广西河丰药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B08",
+  "company": "广西华海药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q15",
+  "company": "广西欢宝药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P18,20",
+  "company": "广西慧宝源医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R13",
+  "company": "广西两面针亿康药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA12",
+  "company": "广西麦克健丰制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M08",
+  "company": "广西南宁德致药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1C12",
+  "company": "广西南宁邕江药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I10,12",
+  "company": "广西南珠制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR13",
+  "company": "广西齐健保健品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SA30",
+  "company": "广西强寿药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P05",
+  "company": "广西润达制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P05",
+  "company": "广西万通制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q28",
+  "company": "广西梧州三鹤药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG18",
+  "company": "广西新龙制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S06",
+  "company": "广西正堂药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R14",
+  "company": "广西中亚美际制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB41",
+  "company": "广煜医药科技（宁夏）有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z010,12",
+  "company": "广州丰得利实业公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z010,12",
+  "company": "广州汉光药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H20",
+  "company": "广州巨米智能设备有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7X36",
+  "company": "广州绿葆网络发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P10",
+  "company": "广州妙方医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B28",
+  "company": "广州南新制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5D09",
+  "company": "广州南雪药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5D09",
+  "company": "广州泉能药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN30",
+  "company": "广州瑞茂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA14",
+  "company": "广州盛狮医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I20",
+  "company": "广州市康祥实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D26",
+  "company": "广州市李夫人药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J02",
+  "company": "广州市满采日用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S09,10",
+  "company": "广州市桐晖药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M06,08",
+  "company": "广州市永信药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J20",
+  "company": "广州万正药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J20",
+  "company": "广州先灵葆雅生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3A05",
+  "company": "广州医药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3A05",
+  "company": "广州白云山医药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP34",
+  "company": "广州易康营养健康咨询有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "R003",
+  "company": "广州远琦医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8109,11",
+  "company": "广州粤华制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7016",
+  "company": "贵阳道生健康产业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州奥特药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州佰诺康生物医药开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州大隆药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州地道药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州缔谊健康制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州福泉福临生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TD16",
+  "company": "贵州光正制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C16",
+  "company": "贵州汉方药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州弘泽药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州胡三帖药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州汇正制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州家诚药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州康义药械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州康珠药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州科福丽康制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州科辉制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州联盛药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州苗康医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州苗老爹民本医药器械有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州苗老药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州苗药药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州苗芝林药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SP10",
+  "company": "贵州秦泰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州瑞和制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SC10,12",
+  "company": "贵州瑞晟四叶草药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州三仁堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK14",
+  "company": "贵州神奇柏盛堂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州神奇柏盛堂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3C01",
+  "company": "贵州神奇药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州省工业和信息化厅",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州省科晖制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州圣济堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州盛世药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州顺健制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州特色制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州万顺堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州威利德制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州威门药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州维康子帆药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州心意药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州颐和药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州源和药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州远洋苗家药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC39",
+  "company": "国控圣光新乡国药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "贵州大健康产业发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N02",
+  "company": "国药一心制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N02",
+  "company": "哈尔滨大洋制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB10,12",
+  "company": "哈尔滨海川医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K32",
+  "company": "哈尔滨瀚邦医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M28,30",
+  "company": "哈尔滨美君制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD07",
+  "company": "哈尔滨仁皇药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3A08",
+  "company": "哈尔滨三联药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG37",
+  "company": "哈尔滨世纪宝隆医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH34",
+  "company": "哈尔滨市龙生北药生物工程股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM15",
+  "company": "哈尔滨淑尔真医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R15",
+  "company": "哈尔滨泰华药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE37,39",
+  "company": "哈尔滨天地药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD17",
+  "company": "哈尔滨天生药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH43",
+  "company": "哈尔滨兴安堂医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N06,04",
+  "company": "哈尔滨一洲制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J10,12",
+  "company": "哈尔滨医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R10",
+  "company": "哈高科白天鹅药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q12",
+  "company": "海口鸿大药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M16",
+  "company": "海默尼药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南碧凯药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南海灵化学制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南海药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南皇隆制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J04",
+  "company": "海南金抗制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N21",
+  "company": "海南凯健制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N21",
+  "company": "海南连成药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S19",
+  "company": "海南美好西林生物制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南妙春制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南美享医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3M02",
+  "company": "海南普利制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南全星制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南日中天制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南森祺制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南省医药行业协会",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC30,32",
+  "company": "海南裕泽医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M02",
+  "company": "海南制药厂有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "海南中和药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1A10",
+  "company": "海南卓泰制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ09",
+  "company": "海氏海诺乳胶(青岛)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3B01",
+  "company": "海思科医药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H14",
+  "company": "邯郸康业制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H14",
+  "company": "韩国大熊制药株式会社",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7101,03",
+  "company": "汉昂医药集团",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D01",
+  "company": "杭州恒业网络信息有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T18",
+  "company": "杭州华津药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8016,14",
+  "company": "杭州华威药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM29,31",
+  "company": "杭州缓舒康生物医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP18,20",
+  "company": "杭州金花医药生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "GC03",
+  "company": "杭州科源创信医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD42,44",
+  "company": "杭州天目山药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q16",
+  "company": "杭州新荷科技开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN38",
+  "company": "杭州怡健医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q26",
+  "company": "杭州益品新五丰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T11",
+  "company": "杭州朱养心药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N28",
+  "company": "合肥贝壳派创新科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF29",
+  "company": "合肥卡迪生物药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B24,26",
+  "company": "合肥康春堂药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H16",
+  "company": "合肥立方制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TN27,29",
+  "company": "合肥利民制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B06",
+  "company": "合肥弥高医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "合肥仟草生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q02",
+  "company": "合肥新安医药营销有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8F03",
+  "company": "合江妙灵中药材开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK43",
+  "company": "合泰医疗电子(苏州)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "和田维吾尔药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C11",
+  "company": "河北安嘉药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5J09",
+  "company": "河北百善药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK32",
+  "company": "河北宝塔医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR26",
+  "company": "河北东风药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5H11",
+  "company": "河北东汝阿胶制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN06",
+  "company": "河北富娃堂医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN06",
+  "company": "河北国金药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7E32",
+  "company": "河北华以升医药销售有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q30",
+  "company": "河北汇丰医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R16",
+  "company": "河北健宁药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "河北金康安医疗器械科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D16",
+  "company": "河北金诺康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D16",
+  "company": "河北凯诺制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK05",
+  "company": "河北康惠医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7A02",
+  "company": "河北坤安药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA01,03",
+  "company": "河北利祥文化传媒有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN34,36",
+  "company": "河北利祥文化传媒有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q29",
+  "company": "河北龙海药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J09",
+  "company": "河北美康太平医药贸易有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N2J42",
+  "company": "河北启好医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B09",
+  "company": "河北山姆士药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR17",
+  "company": "河北思瑞明生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TA16",
+  "company": "河北唐威药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1C10",
+  "company": "河北天成药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q25",
+  "company": "河北通络药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TA10",
+  "company": "河北万岁药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S07",
+  "company": "河北武罗药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K30,32",
+  "company": "河北药王制药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3P07",
+  "company": "河北一品制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC12,14",
+  "company": "河北医科大学制药厂",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA44",
+  "company": "河北义海医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "AA23",
+  "company": "河北悦康志德药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q12",
+  "company": "河北泽华伟业科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP13,15",
+  "company": "河北助康医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ37",
+  "company": "河南艾欧斯智能科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q18",
+  "company": "河南安仲康医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD32",
+  "company": "河南诚济医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R18",
+  "company": "河南诚济医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM03",
+  "company": "河南承东生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP03",
+  "company": "河南创诺生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D07",
+  "company": "河南鼎昌药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5115",
+  "company": "河南福森药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM44",
+  "company": "河南华程氏生物科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD14",
+  "company": "河南华峰制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A09",
+  "company": "河南华夏药材有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A09",
+  "company": "河南金华隆制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM09",
+  "company": "郑州久之康医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF06",
+  "company": "河南康迪药械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF06",
+  "company": "河南利欣制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P03",
+  "company": "河南灵佑药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C08",
+  "company": "河南陆港医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG38",
+  "company": "河南明日药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8020",
+  "company": "河南明善堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB04",
+  "company": "河南鹏飞医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M09,11",
+  "company": "河南全宇制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA40",
+  "company": "河南仁龙堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N16",
+  "company": "河南润弘制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M15,17",
+  "company": "河南省奥林特药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J25",
+  "company": "河南省超亚医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8015,13",
+  "company": "河南省迪康医药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P08",
+  "company": "河南省康华药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG05",
+  "company": "河南省路得药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC38,40",
+  "company": "河南省顺康医药有限责任公司(普吉圣)",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5D05",
+  "company": "河南省四方药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN47",
+  "company": "河南省友好服饰有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S07",
+  "company": "河南时珍制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ17,19",
+  "company": "河南四通医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB43",
+  "company": "河南天方医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B23,25",
+  "company": "河南天鸿医药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN18",
+  "company": "河南天中堂生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5E05",
+  "company": "河南信心药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8103",
+  "company": "河南兴源制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN22",
+  "company": "河南亚都实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S024",
+  "company": "河南医保药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF45,47",
+  "company": "河南亿安堂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "AH19",
+  "company": "河南振丹艾灸苑",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "河南智领医疗设备有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M08",
+  "company": "河南中杰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "AC22",
+  "company": "河南仲景源艾业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SP23",
+  "company": "河南众志药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A01,03",
+  "company": "西安今明医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR09",
+  "company": "黑龙江晨旭生物医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q16,18",
+  "company": "黑龙江迪龙制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N13",
+  "company": "黑龙江黑宝药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA34",
+  "company": "黑龙江九州通楚邦医药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N10,12",
+  "company": "黑龙江久久药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5014,1",
+  "company": "黑龙江龙桂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7131",
+  "company": "黑龙江瑞格制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8132",
+  "company": "黑龙江肾腺堂医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR04",
+  "company": "黑龙江省华丝药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB36",
+  "company": "黑龙江省地纳制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I04",
+  "company": "黑龙江省富东制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7I02,04",
+  "company": "黑龙江省合泰医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P20,22",
+  "company": "黑龙江省惠康医药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG12",
+  "company": "黑龙江省灵泰益生医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P10",
+  "company": "黑龙江省美康医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S513",
+  "company": "黑龙江省胜和堂医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J28,30",
+  "company": "黑龙江省万金医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J28,30",
+  "company": "黑龙江省兴邦医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R15",
+  "company": "黑龙江省兴邦医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "DP11",
+  "company": "黑龙江省紫光众兴医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC10",
+  "company": "黑龙江药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH37,39",
+  "company": "黑龙江乌苏里江制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH37,39",
+  "company": "黑龙江乌苏里江制药有限公司哈尔滨分公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G06",
+  "company": "红珊瑚药业(红安)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C23",
+  "company": "红云制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S125",
+  "company": "湖北艾师傅科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R15",
+  "company": "湖北百科亨迪药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5016,16",
+  "company": "湖北邦泽药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD37,39",
+  "company": "湖北昌明药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD34,36",
+  "company": "湖北大唐盛世医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7K02,04",
+  "company": "湖北东信药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7K02,04",
+  "company": "湖北恩威药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB34",
+  "company": "湖北福广制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE01,03",
+  "company": "湖北福瑞龙医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF38",
+  "company": "湖北冠安堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD47",
+  "company": "湖北海鸿医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J02,04",
+  "company": "湖北华恒医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD20",
+  "company": "湖北华旭达药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF18",
+  "company": "湖北济安堂药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N15,13",
+  "company": "湖北金龙药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7132",
+  "company": "湖北京药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z106",
+  "company": "湖北精耕生物工程有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "G8B11",
+  "company": "湖北巨世医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K04",
+  "company": "湖北开圣医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R13",
+  "company": "湖北康馥源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC13,15",
+  "company": "湖北康欣医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C05",
+  "company": "湖北康源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1126",
+  "company": "湖北康正药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1C20",
+  "company": "湖北朗天新特药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R12",
+  "company": "湖北莲花药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5012",
+  "company": "湖北美思创药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5H05",
+  "company": "湖北梦阳药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T08",
+  "company": "湖北名珠药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN02",
+  "company": "湖北明尔康卫生防护用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q27",
+  "company": "湖北沐彤医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE02,04",
+  "company": "湖北宁安堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF33,35",
+  "company": "湖北诺得胜制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "GK25",
+  "company": "湖北蕲艾堂科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "GK25",
+  "company": "湖北菊仁堂科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5A01",
+  "company": "湖北瑞华制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG17",
+  "company": "湖北生源生物医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA08",
+  "company": "湖北展铭医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG33",
+  "company": "湖北盛通药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB02",
+  "company": "湖北四海药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M22,20",
+  "company": "湖北太子药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7101,03",
+  "company": "湖北泰林医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM08",
+  "company": "湖北特必达生物医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N12",
+  "company": "湖北天展药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TN01",
+  "company": "湖北天欣医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR18,19",
+  "company": "湖北天药药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR10",
+  "company": "湖北万康源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7009,11",
+  "company": "湖北万物春医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R03",
+  "company": "湖北唯森制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TK20",
+  "company": "湖北午时药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1120",
+  "company": "湖北鑫烨医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SK23",
+  "company": "湖北言闻生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SK23",
+  "company": "湖北炎黄本草药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SJ26",
+  "company": "湖北一世缘蕲艾生物科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TN08",
+  "company": "湖北长健医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P12",
+  "company": "湖北长久瑞华药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7113",
+  "company": "湖北长联杜勒制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF46,48",
+  "company": "湖北中豹药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF46,48",
+  "company": "湖北华中药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N07",
+  "company": "湖北中新药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R02",
+  "company": "湖南本草制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R07",
+  "company": "湖南补天药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M01",
+  "company": "湖南德康制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q16",
+  "company": "湖南东健药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N21,19",
+  "company": "湖南方盛制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE46,48",
+  "company": "湖南方盛制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5A05",
+  "company": "湖南富兴飞鸽药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q26",
+  "company": "湖南国华制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q26",
+  "company": "湖南汉森制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B10",
+  "company": "湖南恒生制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K27,29",
+  "company": "湖南宏雅基因技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J46,48",
+  "company": "湖南金寿制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7K16",
+  "company": "湖南九典制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD15",
+  "company": "湖南凯信医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5J17",
+  "company": "湖南康尔佳制药销售有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N05,03",
+  "company": "湖南康寿制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M21,19",
+  "company": "湖南康佑药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B38,40",
+  "company": "湖南康众医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M32",
+  "company": "湖南人初堂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM37,39",
+  "company": "湖南人之源紫晶生物工程有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J31",
+  "company": "湖南仁馨生物技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1101",
+  "company": "湖南绅泰春药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN40",
+  "company": "湖南省广和药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G28",
+  "company": "湖南省健缘医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7002",
+  "company": "湖南省湘中制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "湖南泰瑞医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR24",
+  "company": "湖南泰阳医药发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1A19",
+  "company": "湖南威特制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J16",
+  "company": "湖南五洲通药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P29",
+  "company": "湖南湘芝医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5H16",
+  "company": "湖南新汇制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF30",
+  "company": "湖南新金辐医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B32",
+  "company": "湖南新思维生物医药健康产业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q30",
+  "company": "湖南新医科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P25",
+  "company": "湖南鑫和医药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S03",
+  "company": "湖南兴蒙制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q05",
+  "company": "湖南杏林春药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q05",
+  "company": "湖南一格制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A07",
+  "company": "湖南玉万鑫医药生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K10,12",
+  "company": "湖南正清制药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N20",
+  "company": "湖南中和制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S16",
+  "company": "湖南中南制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA22",
+  "company": "湖南众益泰制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3E05",
+  "company": "华北制药集团有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5011",
+  "company": "华润湖南双舟医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R09",
+  "company": "华润三九(南昌)药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F10",
+  "company": "华夏生生药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5118,20",
+  "company": "华阳(恩施)药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3P01",
+  "company": "华中药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B31",
+  "company": "化州化橘红药材发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM13",
+  "company": "皇欣生物科技(上海)中心",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7X02",
+  "company": "黄道益药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3E08",
+  "company": "安庆回音必制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF34,36",
+  "company": "惠州大亚制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M03",
+  "company": "吉林敖东集团",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M03",
+  "company": "吉林敖东集团金海发药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD09",
+  "company": "吉林敖东金海发药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN33",
+  "company": "吉林邦安宝医用设备有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D13",
+  "company": "吉林宝寿堂生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB18,20",
+  "company": "吉林东医生医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7106,08",
+  "company": "吉林恩威锐邦药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR05",
+  "company": "吉林福康药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N20",
+  "company": "吉林华修堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD18",
+  "company": "吉林恒帝药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1028",
+  "company": "吉林恒金药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B03",
+  "company": "吉林恒星科技制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B03",
+  "company": "吉林恒星科技制药有限公司 恒星事业部",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T120",
+  "company": "吉林积盛和药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH09",
+  "company": "吉林积盛药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH09",
+  "company": "吉林济邦药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7010,12",
+  "company": "吉林金恒制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5A11",
+  "company": "吉林龙泰制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E29",
+  "company": "吉林上海胡庆余堂中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D13",
+  "company": "吉林省百盛堂科技开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF41",
+  "company": "吉林省百源康医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB06,08",
+  "company": "吉林省柏吉堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG30",
+  "company": "吉林省邦尔药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N19",
+  "company": "吉林省博康生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R05",
+  "company": "吉林省晨康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P01",
+  "company": "吉林省达达医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M20",
+  "company": "吉林省鼎鹤药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M20",
+  "company": "吉林省鼎鹤药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D13",
+  "company": "吉林省福文人参制品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z130",
+  "company": "吉林省国大生物工程有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF02",
+  "company": "吉林省海洋医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M26,24",
+  "company": "吉林省合力益康医药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF42",
+  "company": "吉林省赫阳药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD45",
+  "company": "吉林省恒德医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8129",
+  "company": "吉林省恒和维康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR27",
+  "company": "吉林省恒星医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR29",
+  "company": "吉林省弘济生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R11",
+  "company": "吉林省红石药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P26,24",
+  "company": "吉林省泓强医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B13",
+  "company": "吉林省华侨药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N24",
+  "company": "吉林省辉南三和制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE26",
+  "company": "吉林省汇鑫药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE26",
+  "company": "吉林省汇鑫医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M27",
+  "company": "吉林省惠强生物技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB46",
+  "company": "吉林省吉信生化医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7Q31",
+  "company": "吉林省今世康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF10,12",
+  "company": "吉林省锦诚医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7028",
+  "company": "吉林省俊宏药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR03",
+  "company": "吉林省骏隆医药经销有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "吉林省康福药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z144",
+  "company": "吉林省康美杰生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M16,18",
+  "company": "吉林省康美药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE14",
+  "company": "吉林省慷心医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG40",
+  "company": "吉林省慷心医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7128,30",
+  "company": "吉林省刻康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "CC47",
+  "company": "吉林省立业医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR11",
+  "company": "吉林省立宇医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC37",
+  "company": "吉林省利华制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE22",
+  "company": "吉林省羚康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5005",
+  "company": "吉林省罗邦药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M23,25",
+  "company": "吉林省普林松药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R04",
+  "company": "吉林省普世药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE08",
+  "company": "吉林省普世药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P31",
+  "company": "吉林省普世药业有限公司营销中心",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF05",
+  "company": "吉林省普世药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF05",
+  "company": "吉林省普世药业有限公司营销中心",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG08",
+  "company": "吉林省乾芝康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE41,43",
+  "company": "吉林省乾芝康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "AN28",
+  "company": "吉林省睿康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R01",
+  "company": "吉林省森源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N08,06",
+  "company": "吉林省晟世药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P23,21",
+  "company": "吉林省晟威医药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P26,24",
+  "company": "吉林省晟威医药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC33",
+  "company": "吉林省晟威医药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B01",
+  "company": "吉林省晟威医药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE22",
+  "company": "吉林省盛瑞药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM10",
+  "company": "吉林省盛赛医药实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD03",
+  "company": "吉林省世纪鑫威药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7132",
+  "company": "吉林省天泰药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8031",
+  "company": "吉林省特普特药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB05",
+  "company": "吉林省天赐堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S16",
+  "company": "吉林省天泰药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC42,44",
+  "company": "吉林省天天大健康医药物流配送有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SQ31",
+  "company": "吉林省通化博祥药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD38,40",
+  "company": "吉林省鑫福堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7105,07",
+  "company": "吉林省鑫泽源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE34,36",
+  "company": "吉林省修源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB17",
+  "company": "吉林省亿红药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG46,48",
+  "company": "吉林省毅源堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J20",
+  "company": "吉林省岳氏天博医药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE38,40",
+  "company": "吉林省泽霖药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R02",
+  "company": "吉林省长恒药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB35",
+  "company": "吉林省长宏药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5001",
+  "company": "吉林省珍芝堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7025,23",
+  "company": "吉林省正辉煌药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7K06,08",
+  "company": "吉林省中晟制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "A115",
+  "company": "吉林省钟药师药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S13,14",
+  "company": "吉林市双士药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S14",
+  "company": "吉林双星药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B02",
+  "company": "吉林四环澳康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "G0005",
+  "company": "吉林相生源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM22",
+  "company": "吉林修正健康股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7I11",
+  "company": "吉林亚泰生物药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5A17",
+  "company": "吉林意达药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR15",
+  "company": "吉林誉隆润东医药经营有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P06",
+  "company": "吉林真元制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH14",
+  "company": "吉瑞医药（中国）有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH02",
+  "company": "济南汉磁生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N20",
+  "company": "济南华新医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q27",
+  "company": "济南康生制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB03",
+  "company": "济南明鑫制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP14,16",
+  "company": "济南祺鑫医疗保健品有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN17",
+  "company": "济南人人健生物工程有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8H10,12",
+  "company": "济南三源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z138,40",
+  "company": "济南臻尚医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK40",
+  "company": "济南之羽医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z137",
+  "company": "济宁市健达医疗器械科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1I03",
+  "company": "济宁为民制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M32",
+  "company": "加拿大 BC DRUG INC.",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q10",
+  "company": "佳木斯金天爱心医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z112",
+  "company": "嘉恒医药(江苏)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN08",
+  "company": "建德市朝美日化有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP33",
+  "company": "健康通网络科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3M03",
+  "company": "江苏奥赛康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3M03",
+  "company": "江苏拜仁医疗科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T12",
+  "company": "江苏晨牌药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E32",
+  "company": "江苏承开中药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3A01",
+  "company": "江苏赛诺制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K11",
+  "company": "江苏恩华药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K11",
+  "company": "江苏方智医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ02",
+  "company": "江苏海尔生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7106,08",
+  "company": "江苏汉医药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7106,08",
+  "company": "江苏吉贝尔药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1E12",
+  "company": "江苏居和科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7112,14",
+  "company": "江苏康龙医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z118",
+  "company": "江苏奇力康皮肤药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ18",
+  "company": "江苏瑞之康医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K26",
+  "company": "江苏神华药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N07",
+  "company": "江苏省华宝医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK26",
+  "company": "江苏省健尔康医用敷料有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R17",
+  "company": "江苏省信诺医药对外贸易有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD13",
+  "company": "江苏苏南药业实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N23",
+  "company": "江苏万高药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3107",
+  "company": "江苏亚邦医药营销有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S06",
+  "company": "江苏长江药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C02",
+  "company": "江苏珍生源医药营销有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3101",
+  "company": "江苏正大丰海制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7110,12",
+  "company": "江苏正大清江药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N24",
+  "company": "江苏正大清江制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK18",
+  "company": "江苏中南同创医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N31",
+  "company": "江苏中兴药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE05",
+  "company": "江西阿尔法高科药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J27",
+  "company": "江西草珊瑚药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH45,47",
+  "company": "江西宝得康实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC48",
+  "company": "江西草珊瑚实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N15,17",
+  "company": "江西昌鹤医药供应链管理有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP31",
+  "company": "江西城北实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA09",
+  "company": "江西川奇药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA16",
+  "company": "江西德成制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TN31",
+  "company": "江西德上制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q24",
+  "company": "江西广信药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8F06",
+  "company": "江西国都中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q28",
+  "company": "江西海尔药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T04",
+  "company": "江西鸿烁制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A19",
+  "company": "江西花普堂健康产业发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8H16",
+  "company": "江西极尊堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A27",
+  "company": "江西江中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B20",
+  "company": "江西金品堂中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TM32",
+  "company": "江西津大制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J16",
+  "company": "江西景德中药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E06",
+  "company": "江西天元药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R09",
+  "company": "江西桔都药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D24,26",
+  "company": "江西康堡堂中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP17,19",
+  "company": "江西康林药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8F20",
+  "company": "江西康庆堂中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH46",
+  "company": "江西康之源医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M05",
+  "company": "江西普庆药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM04",
+  "company": "江西领行生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q25",
+  "company": "江西庐山制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA13",
+  "company": "江西绿源堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF37",
+  "company": "江西民济药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R16",
+  "company": "江西民康制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q19,21",
+  "company": "江西南昌桑海制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I16",
+  "company": "江西彭氏药堂饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R10",
+  "company": "江西仁丰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P02",
+  "company": "江西瑞辉健康产业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S03",
+  "company": "江西润泽药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N32",
+  "company": "江西省芙蓉堂药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P19,21",
+  "company": "江西盛翔制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S12",
+  "company": "江西施美药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8F02",
+  "company": "江西顺福堂中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH10",
+  "company": "江西思创药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N14",
+  "company": "江西滕王阁药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1A21",
+  "company": "江西同和药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C06",
+  "company": "江西汪氏药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S17,18",
+  "company": "江西新赣药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J31",
+  "company": "江西新远健药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM07",
+  "company": "江西药圣堂实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S10",
+  "company": "江西亿博医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5H09",
+  "company": "江西益佰年药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "DN20",
+  "company": "江西银涛药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8H24,26",
+  "company": "江西玉笥堂中药制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE11",
+  "company": "江西远东药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8F27,29",
+  "company": "江西樟树国康中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC22",
+  "company": "江西知恩堂实业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P30",
+  "company": "江西制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E01",
+  "company": "江西专宝药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR08",
+  "company": "揭阳市冠成医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P31",
+  "company": "揭阳市通亨宝医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TN25,23",
+  "company": "金诃藏药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TN16",
+  "company": "金鸿药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC29,31",
+  "company": "金花企业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z014",
+  "company": "金华市景迪医疗用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q27",
+  "company": "金华姿兰医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K09",
+  "company": "金陵药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D09,11",
+  "company": "金七药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "金日制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N08",
+  "company": "金施尔康(福州)生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5117",
+  "company": "锦州汉宝药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1D12",
+  "company": "锦州药业(集团)有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F20",
+  "company": "晋城海斯制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5113",
+  "company": "景忠山国药(唐山)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D13",
+  "company": "靖宇县德祥灰苏子种植专业合作社",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D13",
+  "company": "靖宇县鸿源种植专业合作社",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D13",
+  "company": "靖宇县兴和特产品有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF17",
+  "company": "九江捷豹药械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M31",
+  "company": "中国生物技术股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q07",
+  "company": "康普药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB48",
+  "company": "库尔勒龙之业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5107",
+  "company": "葵花药业集团(襄阳)隆中有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1I04",
+  "company": "昆明允木煦药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "昆明众康制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3Q06",
+  "company": "昆山培力药品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5F09",
+  "company": "昆药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z105",
+  "company": "兰溪市拜迪尔医药用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B28",
+  "company": "兰溪市鸿香生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5J15",
+  "company": "兰州佛慈制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C11",
+  "company": "兰州太宝制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C11",
+  "company": "兰州医药行业协会",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "蓝佳堂生物医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N31",
+  "company": "朗美医药科技有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5013",
+  "company": "乐氏同仁三门峡制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5F01",
+  "company": "雷允上药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D32",
+  "company": "礼县春药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "AJ20",
+  "company": "李时珍国灸集团",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "AJ20",
+  "company": "李时珍国灸集团蕲艾产业(蕲春)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5004",
+  "company": "励拓丰盈(盘锦)科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I27",
+  "company": "辽宁参中堂健康产业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M26",
+  "company": "辽宁格瑞仕特生物制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K08,06",
+  "company": "辽宁康博士制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC17",
+  "company": "辽宁美大康华邦药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P24",
+  "company": "辽宁美滋林药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR22",
+  "company": "辽宁千里明药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE10,12",
+  "company": "辽宁天龙药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD06",
+  "company": "辽宁王牌速效制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M13",
+  "company": "辽宁中医学院药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S11",
+  "company": "辽源市百康药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC05",
+  "company": "临汾宝珠制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N11",
+  "company": "临汾市侯马经济开发区赛凌医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "灵源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K17",
+  "company": "灵源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B04",
+  "company": "龙晖药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K11",
+  "company": "龙口新世纪药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q20",
+  "company": "陇药皇甫谧制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z110",
+  "company": "洛阳杰克邦迪生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P25,23",
+  "company": "洛阳市沐春药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C17",
+  "company": "洛阳顺势药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C17",
+  "company": "洛阳沃康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB30,32",
+  "company": "洛阳伊龙药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5I01",
+  "company": "洛阳远洋生物制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN46",
+  "company": "洛阳紫光健康科技开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH38",
+  "company": "马应龙药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q25",
+  "company": "马应龙药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H30",
+  "company": "脉景健康管理有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D32",
+  "company": "绵阳一康制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC03",
+  "company": "牡丹江天一堂医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J02",
+  "company": "南昌华康医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH17",
+  "company": "南昌华康医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN12",
+  "company": "南昌市朝阳医疗保健用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1128",
+  "company": "南海朗肽制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR23",
+  "company": "南京博诺医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR23",
+  "company": "南京刀鱼科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S128",
+  "company": "南京鼎世医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z133",
+  "company": "南京杜瑞医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1132",
+  "company": "南京海纳医药科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7K01,03",
+  "company": "南京和美乐生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1031",
+  "company": "南京华盖制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N27",
+  "company": "南京九霄药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3M07",
+  "company": "南京绿叶制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q05",
+  "company": "南京天朗制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1E26",
+  "company": "南京新百药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N29",
+  "company": "南京亿华药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1008",
+  "company": "南京易亨制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M03",
+  "company": "南京正科医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P16",
+  "company": "南京中大药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK44",
+  "company": "南京竹海生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7R06",
+  "company": "南通久和药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "GG20",
+  "company": "南阳国医仲景艾草产业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8H23",
+  "company": "南阳明翔药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8H21",
+  "company": "南阳灸龙艾制品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SC26",
+  "company": "南阳绿艾草生物制品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G24",
+  "company": "南阳神农草生物制品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8H25",
+  "company": "南阳市无极玄健康管理有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M31",
+  "company": "南阳市新生制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P27,29",
+  "company": "内蒙古大唐药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SJ12",
+  "company": "内蒙古大唐药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8025,23",
+  "company": "内蒙古惠丰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K02",
+  "company": "内蒙古九郡药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "G112",
+  "company": "内蒙古凯蒙药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B29",
+  "company": "内蒙古瑞泰药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T19",
+  "company": "内蒙古通辽制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J23",
+  "company": "宁波宸展医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B20",
+  "company": "宁波大红鹰药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R14",
+  "company": "宁波人健药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C09",
+  "company": "宁夏明德中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P05",
+  "company": "宁夏启元国药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B06,08",
+  "company": "纽西护士(珠海)医学科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I06",
+  "company": "盘锦恒昌隆药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I06",
+  "company": "平安健康互联网股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD04",
+  "company": "莆田市大明轻工制品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "普洱良宝生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K15",
+  "company": "普正药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SK28",
+  "company": "蕲春艾都生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "G124",
+  "company": "蕲春艾郎中生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J22",
+  "company": "蕲春灸世家健康科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "AJ32",
+  "company": "蕲春县奇艾康美本草科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "KK21",
+  "company": "蕲春千年艾科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N09",
+  "company": "秦皇岛德信医药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M19",
+  "company": "秦皇岛康神商贸有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB26",
+  "company": "秦皇岛市山海关药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7I27,29",
+  "company": "秦皇岛益琼堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH42",
+  "company": "青岛健之佳生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN26",
+  "company": "青岛健之佳生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7I41",
+  "company": "青岛九远医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z126",
+  "company": "青岛科美生物工程有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M28,30",
+  "company": "青岛趣味计生用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP02",
+  "company": "青岛瑞诺安医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH26",
+  "company": "青岛盛久医疗用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN29",
+  "company": "青岛天海诚信生物工程有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ09",
+  "company": "青岛沃普艾斯日用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N26",
+  "company": "青岛中惠圣熙生物工程有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I24,26",
+  "company": "青岛卓护医疗用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8029",
+  "company": "青海藏元堂生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J11",
+  "company": "青海柴达木高科技药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5I06",
+  "company": "青海帝玛尔藏药药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8I01",
+  "company": "青海久美藏药药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM18",
+  "company": "青海奇力康医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5J01",
+  "company": "青海御恩医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J05",
+  "company": "青州尧王制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "曲靖开发区格力康生物科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK20",
+  "company": "泉州长晟医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "泉州中侨药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q04",
+  "company": "荣成市华源互联网服务有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S16",
+  "company": "广西康世缘制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ02",
+  "company": "润和生物医药科技(汕头)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM46",
+  "company": "赛昂国际医疗技术江苏有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD33,35",
+  "company": "三门峡广宇生物制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P12",
+  "company": "三门峡赛诺维制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J25",
+  "company": "三明金三元农业科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF22",
+  "company": "森喆堂药业(广州)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N10",
+  "company": "莎普爱思强身药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH18",
+  "company": "山东百花神生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1C32",
+  "company": "山东百诺医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z122",
+  "company": "山东登胜药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8120",
+  "company": "山东东阿古胶阿胶系列产品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "PP22",
+  "company": "山东东进药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "PP22",
+  "company": "山东端信堂大禹药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1E28",
+  "company": "山东方明药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM02",
+  "company": "山东丰澳医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN41",
+  "company": "山东丰泰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE09",
+  "company": "山东凤凰制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5H07",
+  "company": "山东福瑞达医药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R09",
+  "company": "山东海雅医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM17",
+  "company": "山东华晨医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3108",
+  "company": "山东华鲁制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8028",
+  "company": "山东华洋制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P02",
+  "company": "山东康林医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD05",
+  "company": "山东孔府制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G02",
+  "company": "山东孔圣堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G02",
+  "company": "山东力诺制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1H02",
+  "company": "山东良福制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM26",
+  "company": "山东羚药医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1C06",
+  "company": "山东鲁西药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3E03",
+  "company": "山东罗欣药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S08",
+  "company": "山东绿药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1D06",
+  "company": "山东美泰医药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1D06",
+  "company": "山东命大药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3Q07",
+  "company": "山东齐都药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1D08",
+  "company": "山东仁和制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM45",
+  "company": "山东瑞宣生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3J01",
+  "company": "山东润泽制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S14",
+  "company": "山东上济堂国药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1D20",
+  "company": "山东盛百灵医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM38,40",
+  "company": "山东盛凯源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B15",
+  "company": "山东司邦得制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D30",
+  "company": "山东特利尔营销策划有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D30",
+  "company": "山东特尔营销策划有限公司医药分公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "山东特谱药物研发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "山东无花果药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T05,06",
+  "company": "山东希力药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B09",
+  "company": "山东仙河药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8007",
+  "company": "山东新宝医药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3B03",
+  "company": "山东新华制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S15",
+  "company": "山东鑫齐药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN37,39",
+  "company": "山东星之诚生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7128,30",
+  "company": "山东岳草堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z145,47",
+  "company": "山东中齐药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF09",
+  "company": "山东中大药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q20",
+  "company": "山东众赢医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ41",
+  "company": "山东众之康生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C46",
+  "company": "山东朱氏堂医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P01",
+  "company": "山西昂生药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TK32",
+  "company": "山西澳迩药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TK32",
+  "company": "山西宝泰药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C09",
+  "company": "山西复盛公药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B11",
+  "company": "山西复盛公药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD08",
+  "company": "山西亨瑞达制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8028",
+  "company": "山西华济药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P20",
+  "company": "山西皇城相府药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5J05",
+  "company": "山西黄河中药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q09",
+  "company": "山西晋药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q26",
+  "company": "山西康威制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D20",
+  "company": "山西兰花太行中药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F28",
+  "company": "山西兰花药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B10",
+  "company": "山西太原药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q09",
+  "company": "山西纳德西生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5H15",
+  "company": "山西千汇药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J32",
+  "company": "山西仁源堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5015",
+  "company": "山西三晋药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B17",
+  "company": "山西太行药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B10",
+  "company": "山西太原药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1B10",
+  "company": "山西天生制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SS12",
+  "company": "山西万辉制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3E01",
+  "company": "山西新宝源制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3E01",
+  "company": "山西鑫煜制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1A05",
+  "company": "山西云鹏制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5G11",
+  "company": "山西振东制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q19",
+  "company": "陕西白鹿制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K02",
+  "company": "陕西博森生物制药股份集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R11",
+  "company": "陕西诚信制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B09,11",
+  "company": "陕西大德医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1102",
+  "company": "陕西顿斯制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S04",
+  "company": "陕西冯武臣大药堂制药厂有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8008,06",
+  "company": "陕西关爱制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S13",
+  "company": "陕西汉王药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S13",
+  "company": "陕西鸿润堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J24",
+  "company": "陕西华龙制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S17,18",
+  "company": "陕西健民制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P27",
+  "company": "陕西九州制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N16",
+  "company": "陕西君碧莎制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S16",
+  "company": "陕西开元制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P30",
+  "company": "陕西联盛医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8003",
+  "company": "陕西邈妙灵药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5E15",
+  "company": "陕西摩美得气血和制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5E15",
+  "company": "陕西生生中药饮片有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P24",
+  "company": "陕西省科学院制药厂",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M11",
+  "company": "陕西天洋制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM11",
+  "company": "陕西天宇长安健康产业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SJ10",
+  "company": "陕西天远药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N11",
+  "company": "陕西威信制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N11",
+  "company": "陕西颐生药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE42,44",
+  "company": "陕西中兴药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8P25",
+  "company": "陕西中医学院制药厂",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M06",
+  "company": "商丘市金马药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N03",
+  "company": "上海宝舜医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5006",
+  "company": "上海纯康医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J06,08",
+  "company": "上海迪冉郸城制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G20",
+  "company": "上海儿童营养中心有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM43",
+  "company": "上海菲思挺医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3C03",
+  "company": "上海复星医药产业发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3N02",
+  "company": "上海沪源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M14",
+  "company": "上海金不换兰考制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H434",
+  "company": "上海精宸科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ19",
+  "company": "上海康年医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ09",
+  "company": "上海科进医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S13",
+  "company": "上海浦津林州制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC04",
+  "company": "上海庆安药业集团",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC04",
+  "company": "宿州制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P28,30",
+  "company": "上海善诺医药科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z146,48",
+  "company": "上海商玺伟康医药用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q01",
+  "company": "上海神州美景健康科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1H06",
+  "company": "上海世康特制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1H06",
+  "company": "上海守东药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB21",
+  "company": "上海寿如松药业泌阳制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ37",
+  "company": "上海软素科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C04",
+  "company": "上海天龙药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T10",
+  "company": "上海通用药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP40",
+  "company": "上海维牛科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R05",
+  "company": "上海欣峰制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R08",
+  "company": "上海新亚药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R08",
+  "company": "上海新亚药业邗江有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE18",
+  "company": "上海信仁制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3R04",
+  "company": "上海信谊联合医药药材有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z103",
+  "company": "上海优肤生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7509",
+  "company": "上海雨浓医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN48",
+  "company": "上海执中医疗技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q23",
+  "company": "上海中医大药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SJ30",
+  "company": "上和元（北京）中医研究院有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S12",
+  "company": "深圳聪明目智能科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P31",
+  "company": "深圳高卓药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG29",
+  "company": "深圳惠民制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP22",
+  "company": "深圳精迪敏健康医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z109,11",
+  "company": "深圳来福士雾化医学有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1C28",
+  "company": "深圳朗科药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN35",
+  "company": "深圳尼罗河生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP35",
+  "company": "深圳市澳考科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ33",
+  "company": "深圳市哈斯福科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7J27,29",
+  "company": "深圳市佳泰药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ01",
+  "company": "深圳市家康科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3F01",
+  "company": "深圳市金活医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M20",
+  "company": "深圳市人初医疗用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S06",
+  "company": "深圳市泰隆堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q23",
+  "company": "深圳市腾他药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7120",
+  "company": "深圳市玄关健康医疗互联网有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP26",
+  "company": "深圳市阳光百度生物科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA05",
+  "company": "深圳市亿贝康医疗设备有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3C08",
+  "company": "深圳市永祥医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ34",
+  "company": "深圳市钰创合成光电技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T02",
+  "company": "深圳市中西药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T02",
+  "company": "深圳万和制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC09",
+  "company": "深圳维克多生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3Q08",
+  "company": "深圳信立泰药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1024",
+  "company": "深圳永泽医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5D11",
+  "company": "神威药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR14",
+  "company": "沈阳嗣康医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R10",
+  "company": "沈阳博大精益生物制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK45,47",
+  "company": "沈阳得康医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7124,26",
+  "company": "沈阳东陵药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P20,22",
+  "company": "沈阳东新药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB37",
+  "company": "沈阳东星医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "QD29",
+  "company": "沈阳福宁药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J05",
+  "company": "沈阳管城制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S12",
+  "company": "沈阳光大制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3Q02",
+  "company": "沈阳三生制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M03",
+  "company": "沈阳神龙药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7K24",
+  "company": "沈阳天行健医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N23",
+  "company": "圣大（张家口）药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B05",
+  "company": "石家庄渡康医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1023",
+  "company": "石家庄格瑞药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J06",
+  "company": "石家庄神通药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M20",
+  "company": "石家庄市华新药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3K07",
+  "company": "石家庄四药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "F111",
+  "company": "石家庄以岭药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5E01",
+  "company": "石家庄御和堂药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "漳州水仙药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK34",
+  "company": "四川艾医生医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B28",
+  "company": "四川奥邦医药贸易有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K01",
+  "company": "四川巴中普瑞制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB39",
+  "company": "四川才高识远医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C28",
+  "company": "四川彩虹制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B31",
+  "company": "四川成都同道堂制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC11",
+  "company": "四川大芳江生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7E31",
+  "company": "四川德元药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B04",
+  "company": "四川峨嵋山药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5A09",
+  "company": "四川逢春制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G02",
+  "company": "四川辅正药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G02",
+  "company": "四川高原明珠制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T03",
+  "company": "四川厚生天佐药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B20",
+  "company": "四川汇宇制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG11",
+  "company": "四川金药师制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C31",
+  "company": "四川凯美中药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C31",
+  "company": "四川康特能药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB42,44",
+  "company": "四川科创医药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG26",
+  "company": "四川利佰生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N03,05",
+  "company": "四川联成迅康医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7A20",
+  "company": "四川美大康药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B32",
+  "company": "四川赛思医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP05",
+  "company": "四川三合堂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D20",
+  "company": "四川升和药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B24",
+  "company": "四川省川眉药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q32",
+  "company": "四川省迪威药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7A28",
+  "company": "四川省乐至贵均卫生材料有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF08",
+  "company": "四川省名实医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M04",
+  "company": "四川省仁德制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M04",
+  "company": "四川省三星堆制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC06",
+  "company": "四川省通园制药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C20",
+  "company": "四川省祥云中药饮片进出口有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1I12",
+  "company": "四川太平药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF03",
+  "company": "四川泰华堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D27",
+  "company": "四川泰乐制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA07",
+  "company": "四川欣生泰堂医药贸易有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B06",
+  "company": "四川新斯顿制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SK05",
+  "company": "四川鑫达康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1E10",
+  "company": "四川兴科蓉药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D27,29",
+  "company": "四川兴盛源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE33,35",
+  "company": "四川旭阳药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5508",
+  "company": "四川雪珍堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR02",
+  "company": "四川依科制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C28,30",
+  "company": "四川御致药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB01",
+  "company": "四川滋兴生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R03,04",
+  "company": "松原市神光医药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P25",
+  "company": "苏州爱美津制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P25",
+  "company": "苏州爱益健医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N04,06",
+  "company": "苏州大冢制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB15",
+  "company": "苏州工业园区天龙制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP39",
+  "company": "苏州瑞云信息技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z113",
+  "company": "苏州新纶超净技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3S02",
+  "company": "苏州玉森新药开发有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3103",
+  "company": "遂成药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3H03",
+  "company": "太极集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5007",
+  "company": "太康海恩药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q01,03",
+  "company": "太康县益康医药零售连锁有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M16",
+  "company": "太原大宁药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SK27",
+  "company": "太原梓豪健康产品研究所",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S129",
+  "company": "泰州阿斯顿医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K20",
+  "company": "特素生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J07",
+  "company": "天津柏海药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "S128",
+  "company": "天津海奥斯科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7M27,29",
+  "company": "天津和治药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR12",
+  "company": "天津洪福药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "M001",
+  "company": "天津华津制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "M001",
+  "company": "天津嘉氏堂科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM47",
+  "company": "天津健春生物科技发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3518",
+  "company": "天津金虹胜利药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J12",
+  "company": "天津青松华药医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P03,05",
+  "company": "天津赛诺制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P03,05",
+  "company": "天津市博爱生物药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3G05",
+  "company": "天津市医药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3R02",
+  "company": "天津太平洋制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7505",
+  "company": "天津天士力医药商业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1I31",
+  "company": "天津御匾康健生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7F20",
+  "company": "天圣制药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK41",
+  "company": "铁岭市蓝洋医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q23",
+  "company": "通化金恺威药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q23",
+  "company": "通化市劲峰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA42",
+  "company": "通化市劲峰医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG10",
+  "company": "通化颐生药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC08",
+  "company": "通化裕康堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3J07",
+  "company": "同药集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "同溢堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8N30",
+  "company": "桐庐分水为民制笔厂",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G02",
+  "company": "万邦德制药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q30",
+  "company": "万力德生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M27",
+  "company": "潍坊圣罗兰商贸有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M27",
+  "company": "芜湖绿叶制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T07",
+  "company": "武汉冠童医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T07",
+  "company": "武汉巨能金药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1N08,10",
+  "company": "武汉诺安药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K06",
+  "company": "武汉双龙药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K06",
+  "company": "武汉四方同药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "QD28",
+  "company": "武汉天地人和药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA10",
+  "company": "武汉同顺康医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB33",
+  "company": "武汉同心茂源医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZH41",
+  "company": "武汉同心茂源医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A01,03",
+  "company": "河南佐今明医药有限公司销售总部",
+  "conf": "mid",
+  "prod": "",
+  "hall": "N8"
+ },
+ {
+  "booth": "ZM30",
+  "company": "武汉沃德利派医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK12",
+  "company": "武汉新大地环保材料股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8108",
+  "company": "西安阿房宫药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB47",
+  "company": "西安迪奥生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN42",
+  "company": "西安福达生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S01",
+  "company": "西安高科陕西金方药业公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1Q07,09",
+  "company": "西安海欣制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P29",
+  "company": "西安恒生堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7R07",
+  "company": "西安惠普生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN45",
+  "company": "西安俊元医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ12",
+  "company": "西安康牌医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1F31",
+  "company": "西安科力药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA06",
+  "company": "西安莱茵药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3P02",
+  "company": "西安利君精华药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7F11",
+  "company": "西安利君医疗器械有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC26",
+  "company": "西安利君制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR21",
+  "company": "西安诺建商贸有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z139",
+  "company": "西安奇草堂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8M02",
+  "company": "西安千禾药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8130",
+  "company": "西安双陆健康产业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B01",
+  "company": "西安天一秦昆制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3Q05",
+  "company": "西安万隆制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZB19",
+  "company": "西安药材贸易中心有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K03",
+  "company": "西安藻露堂药业集团",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K03",
+  "company": "西安藻露堂药业集团大明宫医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N26,24",
+  "company": "西安正道药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q22",
+  "company": "西藏藏药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K05",
+  "company": "西藏藏药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q32",
+  "company": "西藏诺迪康药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "T7R02",
+  "company": "西藏诺迪康医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M16",
+  "company": "西藏卫信康医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C27",
+  "company": "西藏月王药诊生态藏药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD29,31",
+  "company": "西施兰药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5K01",
+  "company": "西双版纳雨林制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T13",
+  "company": "希百寿药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P32",
+  "company": "希比希(上海)贸易有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK09,11",
+  "company": "烯旺新材料科技股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5P17,19",
+  "company": "喜复宁(杭州)生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "厦门恩成制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "厦门力卓药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "厦门美商医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "厦门市优益诺医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZN13,15",
+  "company": "仙居县真的棒日用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA26",
+  "company": "香港虎标永安堂大药房有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S05",
+  "company": "湘西宏成制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E20",
+  "company": "小豆中药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新疆华世丹药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新疆华世丹药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新疆金胡杨药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新疆南京同仁堂健康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新疆全安药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新疆天山药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新疆维吾尔自治区药品工业协会",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新疆银朵兰药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z102",
+  "company": "新疆钰昂光电科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新奇康药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "新生命(福建)生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J08",
+  "company": "新乡市常乐制药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S07",
+  "company": "新乡市新辉药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "TN06",
+  "company": "新兴同仁药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P28",
+  "company": "信利来(北京)医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "兴安药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK42",
+  "company": "徐州弘立卫生材料有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG07",
+  "company": "徐州利君医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM48",
+  "company": "徐州欧意医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q29",
+  "company": "牙克石市森健药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3C05",
+  "company": "亚宝药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J29",
+  "company": "烟台爱心药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1C31",
+  "company": "烟台巨先药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P08,10",
+  "company": "烟台鲁银药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J26",
+  "company": "烟台万润药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR20",
+  "company": "延安利众药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE32",
+  "company": "延安制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "盐津东胜中药材种植有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M03",
+  "company": "扬州中惠制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD30",
+  "company": "杨凌华翼纳米医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7A06",
+  "company": "药都制药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5I05",
+  "company": "伊春五加参药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7G16",
+  "company": "伊犁全鹿制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZP32",
+  "company": "医介信息技术(上海)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7Q09,11",
+  "company": "医统天下网络科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3J03",
+  "company": "亿帆医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "Z104",
+  "company": "义乌市浩鼎医疗器械有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZA48",
+  "company": "佑华制药(乐山)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M09",
+  "company": "御元堂药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1D04,06",
+  "company": "愈结力(杭州)健康科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7K05,07",
+  "company": "岳阳新华达制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南白药集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南白药集团中药资源有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5509",
+  "company": "云南保元堂药业有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8002",
+  "company": "云南驰佑经贸有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5M04",
+  "company": "云南楚雄天利药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南滇源珍草中药饮片有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B32",
+  "company": "云南国鹤药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南昊辰农业科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A25",
+  "company": "云南后康时代医药有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8A29",
+  "company": "云南华优中药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8010,12",
+  "company": "云南金七制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "金七药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南巨都生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5S11",
+  "company": "云南克雷斯制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C01",
+  "company": "云南蓝绿康药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7J11,13",
+  "company": "云南龙海天然植物药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8F28",
+  "company": "云南七丹药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K07",
+  "company": "云南润嘉药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南砂仁生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南省药材种植养殖行业协会",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8K16",
+  "company": "云南晟招制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南腾冲东方红制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南腾药制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南屯屯麦生物技术研究有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云南药材有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P01",
+  "company": "云南裕丰药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q20",
+  "company": "云南云河药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7S15",
+  "company": "云南云龙制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B07",
+  "company": "云南植物药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5B07",
+  "company": "云势天下(北京)软件有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "云县信合农业发展有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8D02,04",
+  "company": "云一鹤药业(云南)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "展筋丹(贵州)药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE07",
+  "company": "漳州华大药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "漳州片仔癀药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1G12",
+  "company": "漳州水仙药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SF10",
+  "company": "樟树市仁德中药饮片有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZG22",
+  "company": "昭通市骅成制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZK10",
+  "company": "兆和医疗精密仪器有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3K02",
+  "company": "兆科药业（合肥）有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZQ11",
+  "company": "肇庆市锦晟个人医疗护理用品科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P32",
+  "company": "浙江爱诺生物药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5D15",
+  "company": "浙江爱生药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R12",
+  "company": "浙江安宝药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M24",
+  "company": "浙江安贝特药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1M24",
+  "company": "浙江贝加尔卫生科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K12",
+  "company": "浙江诚意药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1K12",
+  "company": "浙江德尚韵兴医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC35",
+  "company": "浙江叮当医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P04",
+  "company": "浙江购伽科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7P04",
+  "company": "浙江海纳倍康医疗科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B02",
+  "company": "浙江好市民医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3T01",
+  "company": "浙江弘盛药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1D02",
+  "company": "浙江宏冠药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5D01",
+  "company": "浙江惠松制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZE29",
+  "company": "浙江济世仁德医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5D17",
+  "company": "浙江康德药业集团股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC34,36",
+  "company": "浙江朗柯生物工程有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1D32",
+  "company": "浙江木植健康产业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "SE31",
+  "company": "浙江千济方医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R18",
+  "company": "浙江全行医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R18",
+  "company": "浙江仁康医药用品有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H12",
+  "company": "浙江瑞新药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7N12",
+  "company": "浙江莎普爱思药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8C04",
+  "company": "浙江圣华药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1P04,06",
+  "company": "浙江天瑞药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1I20",
+  "company": "浙江为康制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1I20",
+  "company": "浙江五养堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1S03",
+  "company": "浙江新锐医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3Q01",
+  "company": "浙江亚太药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3K01",
+  "company": "浙江银达生物技术有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3Q04",
+  "company": "浙江优胜美特医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7001",
+  "company": "浙江浙北药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7001",
+  "company": "浙江震元制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8G08",
+  "company": "镇沅圣元堂生物科技开发有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3R03",
+  "company": "正大制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5J11",
+  "company": "郑州福瑞堂制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8J192",
+  "company": "郑州恒煜生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZM34,36",
+  "company": "郑州康宜健医疗器械有限责任公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZF01",
+  "company": "郑州仁安堂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZJ05",
+  "company": "郑州仁惠医疗设备有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5C12",
+  "company": "郑州瑞龙制药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8B05,07",
+  "company": "郑州市江山康裕医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7109,11",
+  "company": "郑州卓峰制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H06,08",
+  "company": "郑州子昂医药科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7H06,08",
+  "company": "智昌药业(云南)有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N3G03",
+  "company": "中国医药健康产业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5G09",
+  "company": "中国中药控股有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5G09",
+  "company": "广东一方制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5N13",
+  "company": "中峘本草制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8131",
+  "company": "长春市科新生化药械研究有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZC02",
+  "company": "中山市藏龙堂生物科技有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8E23,25",
+  "company": "中山市中智药业集团有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R17",
+  "company": "珠海安生医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N5R17",
+  "company": "珠海国佳新材股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B12",
+  "company": "珠海和凡医药股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7B16",
+  "company": "珠海赛隆药业股份有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C06",
+  "company": "珠海同源药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7C05,07",
+  "company": "珠海友邦医药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N8Q04",
+  "company": "株洲康圣堂药业有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1J03",
+  "company": "涿州东乐制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZD46,48",
+  "company": "涿州市丛林创意广告有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "ZR28",
+  "company": "涿州众擎文化传媒有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N1R16",
+  "company": "淄博万杰制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ },
+ {
+  "booth": "N7D16",
+  "company": "遵义华卫制药有限公司",
+  "conf": "mid",
+  "prod": ""
+ }
+]
